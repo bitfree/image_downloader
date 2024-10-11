@@ -3,7 +3,7 @@ python scripts for image downloaer
 
 사용법
 
-    python3 image_downloader.py "dog" 10 
+    python3 image_downloader.py "dog" 10   # 강아지 사진을 10장 다운로드 합니다. 
 
 필요 패키지
 
